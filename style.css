@@ -1,0 +1,12 @@
+.container {
+    font-family: Arial, sans-serif;
+  }
+  
+  .input-box input {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .input-box button {
+    padding: 5px 10px;
+  }
